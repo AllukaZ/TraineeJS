@@ -159,7 +159,7 @@ function mostrarCorrigir(){
     registro.classList.add('escondido')
 }
 
-//esconder corrigir
+
 
 
 
